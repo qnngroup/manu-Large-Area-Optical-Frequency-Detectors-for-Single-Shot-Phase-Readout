@@ -2,7 +2,8 @@
 "Large Area Optical Frequency Detectors\\ for Single-Shot Phase Readout" Manuscript - code to reproduce the presented data.
 The raw data can be downloaded from https://syncandshare.desy.de/index.php/s/qGrMQxLQCj6MGHm . Please copy the two folder "4CMTO" (Main text data) and "4IMCT3" (SI data) into the directory of the code.
 
-To produce the analysis presented in the main text, please open jupyter notebook Main.ipynb. For the SI SI.ipynb respectively.
+To produce the analysis presented in the main text, please open jupyter notebook "SingleShotAnalysis4C04112022V3.ipynb".
+For the SI SI.ipynb respectively.
 Additionally, the estimation of the peak currents is found in notebook InstCurrentEstimation.ipynb. 
 The modelling of a single nanoantenna is found in AntennaModelling.ipynb.
 
