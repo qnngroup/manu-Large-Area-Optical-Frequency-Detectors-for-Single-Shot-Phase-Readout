@@ -1,6 +1,6 @@
 # Large-Area-Optical-Frequency-Detectors-for-Single-Shot-Phase-Readout
 "Large Area Optical Frequency Detectors\\ for Single-Shot Phase Readout" Manuscript - code to reproduce the presented data.
-The raw data can be downloaded from https://syncandshare.desy.de/index.php/s/qGrMQxLQCj6MGHm . Please copy the two folder "4CMTO" (Main text data) and "4IMCT3" (SI data) into the directory of the code.
+The raw data can be downloaded from [figshare](https://figshare.com/articles/dataset/On-Chip_Petahertz_Electronics_for_Single-Shot_CEP_Detection/25114634) . Please copy the two folder "4CMTO" (Main text data) and "4IMCT3" (SI data) into the directory of the code.
 
 To produce the analysis presented in the main text, please open jupyter notebook "SingleShotAnalysis4C04112022V3.ipynb".
 For the SI "SingleShotAnalysis4IMCT3_03112022V2.ipynb" respectively.
